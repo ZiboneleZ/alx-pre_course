@@ -1,1 +1,1 @@
-$ git merge remotename/branchname
+$ git pull remotename branchname
